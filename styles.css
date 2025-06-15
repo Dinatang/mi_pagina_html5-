@@ -1,0 +1,25 @@
+/* Cambia el color de toda la letra del cuerpo a black */
+body {
+  color: black(63.307% 0.12303 98.093 / 0.795);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background-color: #180f8f;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
